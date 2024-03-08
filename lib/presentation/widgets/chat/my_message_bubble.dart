@@ -14,6 +14,7 @@ class MyMessageBubble extends StatelessWidget {
       crossAxisAlignment:
           CrossAxisAlignment.end, // Alineación cruzada al final (a la derecha)
       children: [
+        // Contenedor para el mensaje de texto
         Container(
           // Contenedor para el mensaje de texto
           decoration: BoxDecoration(

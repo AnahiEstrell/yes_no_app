@@ -1,7 +1,4 @@
-// To parse this JSON data, do
-//
-//     final yesNoModel = yesNoModelFromJson(jsonString);
-
+// Importación de la clase Message del paquete yes_no_app/domain/entities/message.dart
 import 'package:yes_no_app/domain/entities/message.dart';
 
 // Clase para representar un modelo de respuesta de sí o no

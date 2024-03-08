@@ -32,10 +32,9 @@ class HerMessageBubble extends StatelessWidget {
           height: 5,
         ),
 
-        // Widget para la imagen (pendiente de implementar)
+        // Widget para la imagen
         _ImageBubble(
             message.imageUrl!), // Widget para mostrar la imagen de la burbuja
-
         const SizedBox(
           height: 10,
         )

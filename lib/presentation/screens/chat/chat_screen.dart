@@ -41,6 +41,7 @@ class _ChatView extends StatelessWidget {
 
     // Retorna un área segura con mensajes y un campo de entrada de texto
     return SafeArea(
+      // Widget SafeArea para evitar el área del notch
       child: Padding(
         padding:
             const EdgeInsets.symmetric(horizontal: 10), // Espaciado horizontal

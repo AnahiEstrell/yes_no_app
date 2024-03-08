@@ -43,7 +43,7 @@ class MessageFieldBox extends StatelessWidget {
         },
       ),
     );
-
+    
     // Retorna un campo de entrada de formulario
     return TextFormField(
       onTapOutside: (event) {
